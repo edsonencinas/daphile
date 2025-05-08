@@ -4,14 +4,14 @@ Are you a music enthusiast with an old PC or laptop gathering dust? Why not brea
 
 ![daphile_use-case](https://github.com/user-attachments/assets/f5298a41-503d-400e-940c-08381a84ff87)
 
-## Why Use an Old Laptop for Hi-Res Music?
+### Why Use an Old Laptop for Hi-Res Music?
 
 -	**Cost-effective**: No need to buy expensive dedicated hardware.
 -	**Dedicated device**: Keeps your main computer free from music playback duties.
 -	**Customizable**: Tailor the setup to your preferences.
 -	**Eco-friendly**: Repurpose existing hardware instead of discarding it.
 
-## What You'll Need?
+### What You'll Need?
 
 -	An **old laptop** with decent hardware. (at least 2GB RAM, a stable network connection).
 -	A **USB DAC** (Digital-to-Analog Converter) for high-quality audio output. I will be using SMSL PS100, cheap but sounds good. (optional but recommended).
@@ -19,25 +19,28 @@ Are you a music enthusiast with an old PC or laptop gathering dust? Why not brea
 -	**Internet connection** for downloading necessary software.
 -	Basic familiarity with BIOS/UEFI settings and network configuration.
 
-## Step-by-Step Guide
+### Step-by-Step Guide
 
 ### 1. Prepare Your Laptop
 
 For this guide, I will be using my old Lenovo Ideapad 310 laptop (4 GB RAM with 150 GB SSD drive).
 
--	Clean Install (Optional): For optimal performance, consider installing a lightweight Linux distribution or wiping the existing OS and installing Daphile directly.
--	BIOS Settings: Ensure the laptop is set to boot from USB or network if needed.
--	Connect Hardware: Plug in your USB DAC if available, and connect your laptop to your home network via Ethernet or Wi-Fi.
+-	**Clean Install (Optional)**: For optimal performance, consider installing a lightweight Linux distribution or wiping the existing OS and installing Daphile directly.
+-	**BIOS Settings**: Ensure the laptop is set to boot from USB or network if needed.
+-	**Connect Hardware**: Plug in your USB DAC if available, and connect your laptop to your home network via Ethernet or Wi-Fi. In my case I will connect my laptop using ethernet cable because the built-in wireless adapter of my old laptop is not supported by daphile.
 
-2. Download Daphile
+### 2. Download Daphile
 
 Visit the official Daphile website: https://daphile.com/
 Download the latest Daphile ISO image.
 
-3. Create a Bootable USB Drive
+### 3. Create a Bootable USB Drive
 
-Use tools like Rufus or BalenaEtcher (Windows) to create a bootable USB stick with the Daphile ISO.
-Insert your USB drive, launch balenaEtcher on your machine and locate the daphile iso image in your computer. Select your USB drive as the target then click Flash. This will take 4-5 minutes depending on your machine.
+Use tools like **Rufus** or **BalenaEtcher** (Windows) to create a bootable USB stick with the Daphile ISO.
+Insert your USB drive, launch balenaEtcher on your machine and locate the daphile iso image in your computer. Select your USB drive as the target then click Flash. This will take 5-7 minutes depending on your machine.
+
+![flashing_to_USB](https://github.com/user-attachments/assets/f5b8ce6c-cceb-4011-a2cf-46f171e3ae29)
+
 
 4. Boot Your Laptop from USB
 
