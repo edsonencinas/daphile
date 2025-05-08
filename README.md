@@ -2,6 +2,8 @@
 
 Are you a music enthusiast with an old PC or laptop gathering dust? Why not breathe new life into it by transforming it into a dedicated Hi-Res music player? With the right software and a few simple steps, you can enjoy high-quality audio playback without spending a dime. In this guide, we'll walk you through turning your old laptop into a powerful Hi-Res music streaming device using Daphile, a lightweight, open-source media server and player optimized for high-fidelity audio.
 
+![daphile_use-case](https://github.com/user-attachments/assets/f5298a41-503d-400e-940c-08381a84ff87)
+
 Why Use an Old Laptop for Hi-Res Music?
 
 -	Cost-effective: No need to buy expensive dedicated hardware.
