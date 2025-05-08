@@ -76,6 +76,10 @@ In this set up I will utilize the extra storage available on the hard drive. In 
 
 ![daphile_media-server2](https://github.com/user-attachments/assets/bef07bf1-1b9a-4fc0-b759-53a22e83540a)
 
+I leave the Storage configuration as default. Daphile uses DaphileData partition as your audio files storage, but you can customize this if you want it to save to other location.
+
+![daphile_media-server1](https://github.com/user-attachments/assets/19d0e508-5be4-453e-8242-ce2a980606bc)
+
 
 ### 7. Configure Audio Output
 
