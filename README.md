@@ -43,41 +43,40 @@ Insert your USB drive, launch balenaEtcher on your machine and locate the daphil
 ![flashing_to_USB](https://github.com/user-attachments/assets/f5b8ce6c-cceb-4011-a2cf-46f171e3ae29)
 
 
-4. Boot Your Laptop from USB
+### 4. Boot Your Laptop from USB
 
 Insert the bootable USB and restart your laptop.
 Access the boot menu (usually by pressing F12, F2, DEL, or ESC during startup).
 Select the USB drive to boot from.
 
-5. Install and Configure Daphile
+### 5. Install and Configure Daphile
 
 Follow on-screen prompts to run Daphile in live mode or install it onto the laptop’s hard drive.
 Once running, access the Daphile web interface via another device on the same network by entering the laptop's IP address in a browser. It typically appears as a web page for configuration.
 
-6. Set Up Music Library
+### 6. Set Up Music Library
 
 Connect your music files to the laptop via USB drive, network share, or internal storage.
 In the Daphile web interface, add your music directories to the library.
 
-7. Configure Audio Output
+### 7. Configure Audio Output
 
 Connect your USB DAC or use the built-in audio output.
 In Daphile settings, select your preferred audio output device.
 Test playback to ensure sound quality.
 
-8. Control Playback
+### 8. Control Playback
 
 Use the Daphile web interface from your smartphone, tablet, or PC to browse and play your music.
 You can also configure remote controls or integrate with apps like BubbleUPnP or Volumio for enhanced control.
 
-Tips for Optimal Performance
+### Tips for Optimal Performance
 
-- Use wired Ethernet for stable streaming, especially if accessing large Hi-Res files.
-- Disable unnecessary services on the laptop to free up system resources.
-- Regularly update Daphile for new features and security patches.
-- Invest in a good USB DAC for the best Hi-Res audio quality.
+- **Use wired Ethernet** for stable streaming, especially if accessing large Hi-Res files (I use FLAC for all of my music collecions).
+- **Regularly update Daphile** for new features and security patches.
+- **Invest in a good USB DAC** for the best Hi-Res audio quality.
 
-Enjoy Your Hi-Res Music!
+### Enjoy Your Hi-Res Music!
 
 With your old laptop now transformed into a dedicated Hi-Res music player, Bitperfect and gapless playback, and enjoy your high-fidelity audio library anytime. Whether you’re relaxing at home or hosting friends, this setup offers a cost-effective, eco-friendly way to indulge in premium sound quality.
 
