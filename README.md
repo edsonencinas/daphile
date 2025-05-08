@@ -52,6 +52,8 @@ Select the USB drive to boot from.
 ### 5. Install and Configure Daphile
 
 Follow on-screen prompts to run Daphile in live mode or install it onto the laptop’s hard drive.
+![daphile_initial_screen](https://github.com/user-attachments/assets/e8f3a93d-0376-4312-b828-b0df36275ab5)
+
 Once running, access the Daphile web interface via another device on the same network by entering the laptop's IP address in a browser. It typically appears as a web page for configuration.
 
 ### 6. Set Up Music Library
