@@ -79,7 +79,7 @@ In this set up I will utilize the extra storage available on the hard drive. In 
 
 I leave the Storage configuration as default. Daphile uses DaphileData partition as your audio files storage, but you can customize this if you want it to save to other location.
 
-<img src="https://github.com/user-attachments/assets/19d0e508-5be4-453e-8242-ce2a980606bc" width="500">
+<img src="https://github.com/user-attachments/assets/19d0e508-5be4-453e-8242-ce2a980606bc" width="600">
 
 ### 7. Configure Audio Output
 
@@ -95,15 +95,14 @@ I want my audio to solely utilize my SMSL PS100 DAC so I disabled other audio de
 Now, you are ready to import your HiRes music collections. Click the File Manager, go to your music folder, then upload your music files or use the drag and drop functionality of Daphile.
 If your have CD collection you can also use the CD Ripping feature of Daphile.
 
-<img src="https://github.com/user-attachments/assets/102cf8a5-0a3e-4591-85ed-958b1410ab70" width="300">
+<img src="https://github.com/user-attachments/assets/102cf8a5-0a3e-4591-85ed-958b1410ab70" width="600">
 
 ### 9. Control Playback
 
 Use the Daphile web interface from your smartphone, tablet, or PC to browse and play your music.
 You can also configure remote controls or integrate with apps like Squeezer or Volumio for enhanced control.
 
-![sqeezer-min](https://github.com/user-attachments/assets/b93c84f1-8099-43e6-9be1-6868380934dd)
-
+<img src="https://github.com/user-attachments/assets/b93c84f1-8099-43e6-9be1-6868380934dd" width="300">
 ### Tips for Optimal Performance
 
 - **Use wired Ethernet** for stable streaming, especially if accessing large Hi-Res files (I use FLAC for all of my music collecions).
