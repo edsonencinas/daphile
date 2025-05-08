@@ -54,6 +54,12 @@ Select the USB drive to boot from.
 Follow on-screen prompts to run Daphile in live mode or install it onto the laptop’s hard drive.
 ![daphile_initial_screen](https://github.com/user-attachments/assets/e8f3a93d-0376-4312-b828-b0df36275ab5)
 
+For the initial settings you will be prompted to:
+
+- configure wireless network (I just skip this because my wireless adapter is not supported).
+- configure static IP address (I opted to configure static IP address. If you don't have knowledge on configuring static IP address, make sure to hook up the ethernet cable to your old laptop and let the DHCP of your router assign the IP address dynamically.
+- wipe/prepare another storage device as a Daphile installation target (This will simply format the hardrive of your old laptop).
+
 Once running, access the Daphile web interface via another device on the same network by entering the laptop's IP address in a browser. It typically appears as a web page for configuration.
 
 ### 6. Set Up Music Library
