@@ -103,6 +103,7 @@ Use the Daphile web interface from your smartphone, tablet, or PC to browse and 
 You can also configure remote controls or integrate with apps like Squeezer or Volumio for enhanced control.
 
 <img src="https://github.com/user-attachments/assets/b93c84f1-8099-43e6-9be1-6868380934dd" width="300">
+
 ### Tips for Optimal Performance
 
 - **Use wired Ethernet** for stable streaming, especially if accessing large Hi-Res files (I use FLAC for all of my music collecions).
