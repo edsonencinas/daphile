@@ -41,8 +41,7 @@ Download the latest Daphile ISO image.
 Use tools like **Rufus** or **BalenaEtcher** (Windows) to create a bootable USB stick with the Daphile ISO.
 Insert your USB drive, launch BalenaEtcher on your machine and locate the Daphile ISO image in your computer. Select your USB drive as the target then click Flash. This will take 5-7 minutes depending on your machine.
 
-![flashing_to_USB](https://github.com/user-attachments/assets/f5b8ce6c-cceb-4011-a2cf-46f171e3ae29)
-
+<img src="https://github.com/user-attachments/assets/f5b8ce6c-cceb-4011-a2cf-46f171e3ae29" width="600">
 
 ### 4. Boot Your Laptop from USB
 
@@ -54,7 +53,7 @@ Select the USB drive to boot from.
 
 Follow on-screen prompts to run Daphile in live mode or install it onto the laptop’s hard drive.
 
-![daphile_initial_screen](https://github.com/user-attachments/assets/e8f3a93d-0376-4312-b828-b0df36275ab5)
+<img src="https://github.com/user-attachments/assets/e8f3a93d-0376-4312-b828-b0df36275ab5" width="600">
 
 For the initial settings you will be prompted to:
 
