@@ -38,7 +38,7 @@ Download the latest Daphile ISO image.
 ### 3. Create a Bootable USB Drive
 
 Use tools like **Rufus** or **BalenaEtcher** (Windows) to create a bootable USB stick with the Daphile ISO.
-Insert your USB drive, launch balenaEtcher on your machine and locate the daphile iso image in your computer. Select your USB drive as the target then click Flash. This will take 5-7 minutes depending on your machine.
+Insert your USB drive, launch BalenaEtcher on your machine and locate the Daphile ISO image in your computer. Select your USB drive as the target then click Flash. This will take 5-7 minutes depending on your machine.
 
 ![flashing_to_USB](https://github.com/user-attachments/assets/f5b8ce6c-cceb-4011-a2cf-46f171e3ae29)
 
@@ -70,6 +70,7 @@ Access the Daphile web interface via another device on the same network by enter
 ![Daphile_installation](https://github.com/user-attachments/assets/4aad9900-fac9-4626-ac93-30cc4cdcd111)
 
 On the Settings > System Firmware > New Installation, the local hardrive of your laptop will show up here, select it. For the Partition table just keep MSDOS as it offer better compatibility with PC BIOS. The boot loader slection may vary depending on your laptop, but in most cases just select BIOS and UEFI. For MAC computers it is recommended to select UEFI boot loader only. 
+
 ### 6. Set Up Music Library
 
 In this set up I will utilize the extra storage available on the hard drive. In the General tab > Media server selection, select internal. If you have NAS (Network Attached Storage) you can select external then provide the IP address of your NAS. 
@@ -80,21 +81,28 @@ I leave the Storage configuration as default. Daphile uses DaphileData partition
 
 ![daphile_media-server1](https://github.com/user-attachments/assets/19d0e508-5be4-453e-8242-ce2a980606bc)
 
-
 ### 7. Configure Audio Output
 
 Connect your USB DAC or use the built-in audio output.
 In Daphile settings, select your preferred audio output device.
 
-
-I want my audio to solely utilize my SMSL PS100 DAC so I disable other audio devices. The audio output of my DAC is attached to my power amp, then to my bookshelf speaker. Now, you can test playback to ensure sound quality.
+I want my audio to solely utilize my SMSL PS100 DAC so I disabled other audio devices. The audio output of my DAC is attached to my power amp, then to my bookshelf speaker. 
 
 ![daphile_audio-devices](https://github.com/user-attachments/assets/10c5bcf8-81a6-42cb-99da-d2e271c221de)
 
-### 8. Control Playback
+### 8. Import your music collections
+
+Now, you are ready to import your HiRes music collections. Click the File Manager, go to your music folder, then upload your music files or use the drag and drop functionality of Daphile.
+If your have CD collection you can also use the CD Ripping feature of Daphile.
+
+![daphile_file_manger](https://github.com/user-attachments/assets/102cf8a5-0a3e-4591-85ed-958b1410ab70)
+
+### 9. Control Playback
 
 Use the Daphile web interface from your smartphone, tablet, or PC to browse and play your music.
-You can also configure remote controls or integrate with apps like BubbleUPnP or Volumio for enhanced control.
+You can also configure remote controls or integrate with apps like Squeezer or Volumio for enhanced control.
+
+![sqeezer-min](https://github.com/user-attachments/assets/b93c84f1-8099-43e6-9be1-6868380934dd)
 
 ### Tips for Optimal Performance
 
