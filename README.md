@@ -52,6 +52,7 @@ Select the USB drive to boot from.
 ### 5. Install and Configure Daphile
 
 Follow on-screen prompts to run Daphile in live mode or install it onto the laptop’s hard drive.
+
 ![daphile_initial_screen](https://github.com/user-attachments/assets/e8f3a93d-0376-4312-b828-b0df36275ab5)
 
 For the initial settings you will be prompted to:
@@ -61,11 +62,14 @@ For the initial settings you will be prompted to:
 - wipe/prepare another storage device as a Daphile installation target (This will simply format the hardrive of your old laptop).
 
 After Daphile has finished starting up, you should see the following message displayed on your screen. You will use the IP address that shown on this screen or the static IP address that you configure earlier.
+
 ![Daphile_screen](https://github.com/user-attachments/assets/7db276fb-34e9-4b9c-a527-d564c21afc3c)
 
 Access the Daphile web interface via another device on the same network by entering the laptop's IP address in a browser. 
+
 ![Daphile_installation](https://github.com/user-attachments/assets/4aad9900-fac9-4626-ac93-30cc4cdcd111)
 
+On the Settings > System Firmware > New Installation, the local hardrive of your laptop will show up here, select it. For the Partition table just keep MSDOS as it offer better compatibility with PC BIOS. The boot loader slection may vary depending on your laptop, but in most cases just select BIOS and UEFI. For MAC computers it is recommended to select UEFI boot loader only. 
 ### 6. Set Up Music Library
 
 Connect your music files to the laptop via USB drive, network share, or internal storage.
