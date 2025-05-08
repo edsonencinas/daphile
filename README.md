@@ -63,11 +63,11 @@ For the initial settings you will be prompted to:
 
 After Daphile has finished starting up, you should see the following message displayed on your screen. You will need the IP address that shown on this screen or the static IP address that you configure earlier to access the device using web browser.
 
-![Daphile_screen](https://github.com/user-attachments/assets/7db276fb-34e9-4b9c-a527-d564c21afc3c)
+<img src="https://github.com/user-attachments/assets/7db276fb-34e9-4b9c-a527-d564c21afc3c" width="600">
 
 Access the Daphile web interface via another device on the same network by entering the laptop's IP address in a browser. 
 
-![Daphile_installation](https://github.com/user-attachments/assets/4aad9900-fac9-4626-ac93-30cc4cdcd111)
+<img src="https://github.com/user-attachments/assets/4aad9900-fac9-4626-ac93-30cc4cdcd111" width="600">
 
 On the Settings > System Firmware > New Installation, the local hardrive of your laptop will show up here, select it. For the Partition table just keep MSDOS as it offer better compatibility with PC BIOS. The boot loader slection may vary depending on your laptop, but in most cases just select BIOS and UEFI. For MAC computers it is recommended to select UEFI boot loader only. 
 
