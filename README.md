@@ -61,7 +61,7 @@ For the initial settings you will be prompted to:
 - configure static IP address (I opted to configure static IP address. If you don't have knowledge on configuring static IP address, make sure to hook up the ethernet cable to your old laptop and let the DHCP of your router assign the IP address dynamically.
 - wipe/prepare another storage device as a Daphile installation target (This will simply format the hardrive of your old laptop).
 
-After Daphile has finished starting up, you should see the following message displayed on your screen. You will use the IP address that shown on this screen or the static IP address that you configure earlier.
+After Daphile has finished starting up, you should see the following message displayed on your screen. You will need the IP address that shown on this screen or the static IP address that you configure earlier to access the device using web browser.
 
 ![Daphile_screen](https://github.com/user-attachments/assets/7db276fb-34e9-4b9c-a527-d564c21afc3c)
 
