@@ -15,7 +15,7 @@ Are you a music enthusiast with an old PC or laptop gathering dust? Why not brea
 ![requirements](https://github.com/user-attachments/assets/8a75dbf7-70ec-4c2b-a21f-0ef9d2d3609d)
 
 -	An **old laptop** with decent hardware. (at least 2GB RAM, a stable network connection).
--	A **USB DAC** (Digital-to-Analog Converter) for high-quality audio output. I will be using SMSL PS100, cheap but sounds good. (optional but recommended).
+-	A **USB DAC** (Digital-to-Analog Converter) for high-quality audio output. I will be using SMSL PS100, cheap but sounds good.
 -	A **USB drive** or **SD card**.
 -	**Internet connection** for downloading necessary software.
 -	Basic familiarity with BIOS/UEFI settings and network configuration.
