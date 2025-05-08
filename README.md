@@ -72,8 +72,11 @@ Access the Daphile web interface via another device on the same network by enter
 On the Settings > System Firmware > New Installation, the local hardrive of your laptop will show up here, select it. For the Partition table just keep MSDOS as it offer better compatibility with PC BIOS. The boot loader slection may vary depending on your laptop, but in most cases just select BIOS and UEFI. For MAC computers it is recommended to select UEFI boot loader only. 
 ### 6. Set Up Music Library
 
-Connect your music files to the laptop via USB drive, network share, or internal storage.
+In this set up I utilize the extra storage available on the hardrive . Connect your music files to the laptop via USB drive, network share, or internal storage.
 In the Daphile web interface, add your music directories to the library.
+
+![daphile_media-server2](https://github.com/user-attachments/assets/bef07bf1-1b9a-4fc0-b759-53a22e83540a)
+
 
 ### 7. Configure Audio Output
 
