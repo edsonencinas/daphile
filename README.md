@@ -2,7 +2,7 @@
 
 Are you a music enthusiast with an old PC or laptop gathering dust? Why not breathe new life into it by transforming it into a dedicated **Hi-Res** music player? With the right software and a few simple steps, you can enjoy high-quality audio playback without spending a dime. In this guide, we'll walk you through turning your old laptop into a powerful Hi-Res music streaming device using **Daphile**, a lightweight, open-source media server and player optimized for high-fidelity audio.
 
-![daphile_use-case](https://github.com/user-attachments/assets/f5298a41-503d-400e-940c-08381a84ff87)
+<img src="https://github.com/user-attachments/assets/f5298a41-503d-400e-940c-08381a84ff87" width="600">
 
 ### Why Use an Old Laptop for Hi-Res Music?
 
@@ -75,7 +75,7 @@ On the Settings > System Firmware > New Installation, the local hardrive of your
 
 In this set up I will utilize the extra storage available on the hard drive. In the General tab > Media server selection, select internal. If you have NAS (Network Attached Storage) you can select external then provide the IP address of your NAS. 
 
-![daphile_media-server2](https://github.com/user-attachments/assets/bef07bf1-1b9a-4fc0-b759-53a22e83540a)
+<img src="https://github.com/user-attachments/assets/bef07bf1-1b9a-4fc0-b759-53a22e83540a" width="600">
 
 I leave the Storage configuration as default. Daphile uses DaphileData partition as your audio files storage, but you can customize this if you want it to save to other location.
 
@@ -88,7 +88,7 @@ In Daphile settings, select your preferred audio output device.
 
 I want my audio to solely utilize my SMSL PS100 DAC so I disabled other audio devices. The audio output of my DAC is attached to my power amp, then to my bookshelf speaker. 
 
-![daphile_audio-devices](https://github.com/user-attachments/assets/10c5bcf8-81a6-42cb-99da-d2e271c221de)
+<img src="https://github.com/user-attachments/assets/10c5bcf8-81a6-42cb-99da-d2e271c221de" width="600">
 
 ### 8. Import your music collections
 
