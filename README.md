@@ -4,14 +4,14 @@ Are you a music enthusiast with an old PC or laptop gathering dust? Why not brea
 
 ![daphile_use-case](https://github.com/user-attachments/assets/f5298a41-503d-400e-940c-08381a84ff87)
 
-##Why Use an Old Laptop for Hi-Res Music?##
+##Why Use an Old Laptop for Hi-Res Music?
 
 -	**Cost-effective**: No need to buy expensive dedicated hardware.
 -	**Dedicated device**: Keeps your main computer free from music playback duties.
 -	**Customizable**: Tailor the setup to your preferences.
 -	**Eco-friendly**: Repurpose existing hardware instead of discarding it.
 
-##What You'll Need?##
+##What You'll Need?
 
 -	An **old laptop** with decent hardware. (at least 2GB RAM, a stable network connection).
 -	A **USB DAC** (Digital-to-Analog Converter) for high-quality audio output. I will be using SMSL PS100, cheap but sounds good. (optional but recommended).
@@ -19,9 +19,9 @@ Are you a music enthusiast with an old PC or laptop gathering dust? Why not brea
 -	**Internet connection** for downloading necessary software.
 -	Basic familiarity with BIOS/UEFI settings and network configuration.
 
-##Step-by-Step Guide##
+##Step-by-Step Guide
 
-###1. Prepare Your Laptop###
+###1. Prepare Your Laptop
 
 For this guide, I will be using my old Lenovo Ideapad 310 laptop (4 GB RAM with 150 GB SSD drive).
 
