@@ -4,27 +4,27 @@ Are you a music enthusiast with an old PC or laptop gathering dust? Why not brea
 
 Why Use an Old Laptop for Hi-Res Music?
 
-•	Cost-effective: No need to buy expensive dedicated hardware.
-•	Dedicated device: Keeps your main computer free from music playback duties.
-•	Customizable: Tailor the setup to your preferences.
-•	Eco-friendly: Repurpose existing hardware instead of discarding it.
+-	Cost-effective: No need to buy expensive dedicated hardware.
+-	Dedicated device: Keeps your main computer free from music playback duties.
+-	Customizable: Tailor the setup to your preferences.
+-	Eco-friendly: Repurpose existing hardware instead of discarding it.
 
-What You'll Need
+What You'll Need?
 
-•	An old laptop with decent hardware. (at least 2GB RAM, a stable network connection).
-•	A USB DAC (Digital-to-Analog Converter) for high-quality audio output. I will be using SMSL PS100, cheap but sounds good. (optional but recommended).
-•	A USB drive or SD card.
-•	Internet connection** for downloading necessary software.
-•	Basic familiarity with BIOS/UEFI settings and network configuration.
+-	An old laptop with decent hardware. (at least 2GB RAM, a stable network connection).
+-	A USB DAC (Digital-to-Analog Converter) for high-quality audio output. I will be using SMSL PS100, cheap but sounds good. (optional but recommended).
+-	A USB drive or SD card.
+-	Internet connection** for downloading necessary software.
+-	Basic familiarity with BIOS/UEFI settings and network configuration.
 
 Step-by-Step Guide
 
 1. Prepare Your Laptop
 For this guide, I will be using my old Lenovo Ideapad 310 laptop (4 GB RAM with 150 GB SSD drive).
 
-•	Clean Install (Optional): For optimal performance, consider installing a lightweight Linux distribution or wiping the existing OS and installing Daphile directly.
-•	BIOS Settings: Ensure the laptop is set to boot from USB or network if needed.
-•	Connect Hardware: Plug in your USB DAC if available, and connect your laptop to your home network via Ethernet or Wi-Fi.
+-	Clean Install (Optional): For optimal performance, consider installing a lightweight Linux distribution or wiping the existing OS and installing Daphile directly.
+-	BIOS Settings: Ensure the laptop is set to boot from USB or network if needed.
+-	Connect Hardware: Plug in your USB DAC if available, and connect your laptop to your home network via Ethernet or Wi-Fi.
 
 2. Download Daphile
 
@@ -65,10 +65,10 @@ You can also configure remote controls or integrate with apps like BubbleUPnP or
 
 Tips for Optimal Performance
 
-Use wired Ethernet** for stable streaming, especially if accessing large Hi-Res files.
-Disable unnecessary services** on the laptop to free up system resources.
-Regularly update Daphile** for new features and security patches.
-Invest in a good USB DAC** for the best Hi-Res audio quality.
+- Use wired Ethernet for stable streaming, especially if accessing large Hi-Res files.
+- Disable unnecessary services on the laptop to free up system resources.
+- Regularly update Daphile for new features and security patches.
+- Invest in a good USB DAC for the best Hi-Res audio quality.
 
 Enjoy Your Hi-Res Music!
 
