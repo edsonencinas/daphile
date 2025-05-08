@@ -85,7 +85,11 @@ I leave the Storage configuration as default. Daphile uses DaphileData partition
 
 Connect your USB DAC or use the built-in audio output.
 In Daphile settings, select your preferred audio output device.
-Test playback to ensure sound quality.
+
+
+I want my audio to solely utilize my SMSL PS100 DAC so I disable other audio devices. The audio output of my DAC is attached to my power amp, then to my bookshelf speaker. Now, you can test playback to ensure sound quality.
+
+![daphile_audio-devices](https://github.com/user-attachments/assets/10c5bcf8-81a6-42cb-99da-d2e271c221de)
 
 ### 8. Control Playback
 
