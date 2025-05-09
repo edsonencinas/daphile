@@ -17,7 +17,7 @@ Are you a music enthusiast with an old PC or laptop gathering dust? Why not brea
 
 -	An **old laptop** with decent hardware. (at least 2GB RAM, a stable network connection).
 -	A **USB DAC** (Digital-to-Analog Converter) for high-quality audio output. I will be using SMSL PS100, cheap but sounds good.
--	A **USB drive** or **SD card**.
+-	A **USB drive** (We will use this to flash the Daphile ISO file).
 -	**Internet connection** for downloading necessary software.
 -	Basic familiarity with BIOS/UEFI settings and network configuration.
 
