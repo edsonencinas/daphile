@@ -112,5 +112,5 @@ You can also configure remote controls or integrate with apps like Squeezer or V
 
 ### Enjoy Your Hi-Res Music!
 
-With your old laptop now transformed into a dedicated Hi-Res music player, Bitperfect and gapless playback, and enjoy your high-fidelity audio library anytime. Whether you’re relaxing at home or hosting friends, this setup offers a cost-effective, eco-friendly way to indulge in premium sound quality.
+With your old laptop now transformed into a dedicated Hi-Res music player, enjoy your high-fidelity audio library anytime. Whether you’re relaxing at home or hosting friends, this setup offers a cost-effective, eco-friendly way to indulge in premium sound quality.
 
