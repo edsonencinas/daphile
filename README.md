@@ -93,7 +93,7 @@ I want my audio to solely utilize my SMSL PS100 DAC so I disabled other audio de
 ### 8. Import your music collections
 
 Now, you are ready to import your HiRes music collections. Click the File Manager, go to your music folder, then upload your music files or use the drag and drop functionality of Daphile.
-If your have CD collection you can also use the CD Ripping feature of Daphile.
+If you have CD collection you can also use the CD Ripping feature of Daphile.
 
 <img src="https://github.com/user-attachments/assets/102cf8a5-0a3e-4591-85ed-958b1410ab70" width="600">
 
